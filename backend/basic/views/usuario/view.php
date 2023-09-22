@@ -32,7 +32,7 @@ $this->params['breadcrumbs'][] = $this->title;
             'id',
             'username',
             'name',
-            'password',
+            //'password',
             //'authkey',
             //'accesstoken',
         ],
